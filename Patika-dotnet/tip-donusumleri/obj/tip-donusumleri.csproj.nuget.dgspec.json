@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Patika-dotnet\\tip-donusumleri\\tip-donusumleri.csproj": {}
+    "D:\\Patika.net\\Kodluyoruz-.net-core\\Patika-dotnet\\tip-donusumleri\\tip-donusumleri.csproj": {}
   },
   "projects": {
-    "D:\\Patika-dotnet\\tip-donusumleri\\tip-donusumleri.csproj": {
+    "D:\\Patika.net\\Kodluyoruz-.net-core\\Patika-dotnet\\tip-donusumleri\\tip-donusumleri.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Patika-dotnet\\tip-donusumleri\\tip-donusumleri.csproj",
+        "projectUniqueName": "D:\\Patika.net\\Kodluyoruz-.net-core\\Patika-dotnet\\tip-donusumleri\\tip-donusumleri.csproj",
         "projectName": "tip-donusumleri",
-        "projectPath": "D:\\Patika-dotnet\\tip-donusumleri\\tip-donusumleri.csproj",
+        "projectPath": "D:\\Patika.net\\Kodluyoruz-.net-core\\Patika-dotnet\\tip-donusumleri\\tip-donusumleri.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "D:\\Patika-dotnet\\tip-donusumleri\\obj\\",
+        "outputPath": "D:\\Patika.net\\Kodluyoruz-.net-core\\Patika-dotnet\\tip-donusumleri\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("degisken")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fd15f05e28cde48e4498922ea2e31810da36355")]
 [assembly: System.Reflection.AssemblyProductAttribute("degisken")]
 [assembly: System.Reflection.AssemblyTitleAttribute("degisken")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
