@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\tip-donusumleri\bin\Debug\net8.0\tip-donusumleri.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\tip-donusumleri\bin\Debug\net8.0\tip-donusumleri.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\tip-donusumleri\bin\Debug\net8.0\tip-donusumleri.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\tip-donusumleri\bin\Debug\net8.0\tip-donusumleri.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\tip-donusumleri\bin\Debug\net8.0\tip-donusumleri.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\tip-donusumleri\obj\Debug\net8.0\tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\tip-donusumleri\obj\Debug\net8.0\tip-donusumleri.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\tip-donusumleri\obj\Debug\net8.0\tip-donusumleri.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\tip-donusumleri\obj\Debug\net8.0\tip-donusumleri.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\tip-donusumleri\obj\Debug\net8.0\tip-donusumleri.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\tip-donusumleri\obj\Debug\net8.0\tip-donusumleri.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\tip-donusumleri\obj\Debug\net8.0\refint\tip-donusumleri.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\tip-donusumleri\obj\Debug\net8.0\tip-donusumleri.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\tip-donusumleri\obj\Debug\net8.0\tip-donusumleri.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\tip-donusumleri\obj\Debug\net8.0\ref\tip-donusumleri.dll
