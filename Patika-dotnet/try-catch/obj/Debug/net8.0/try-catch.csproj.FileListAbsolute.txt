@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\try-catch\bin\Debug\net8.0\try-catch.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\try-catch\bin\Debug\net8.0\try-catch.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\try-catch\bin\Debug\net8.0\try-catch.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\try-catch\bin\Debug\net8.0\try-catch.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\try-catch\bin\Debug\net8.0\try-catch.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\try-catch\obj\Debug\net8.0\try-catch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\try-catch\obj\Debug\net8.0\try-catch.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\try-catch\obj\Debug\net8.0\try-catch.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\try-catch\obj\Debug\net8.0\try-catch.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\try-catch\obj\Debug\net8.0\try-catch.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\try-catch\obj\Debug\net8.0\try-catch.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\try-catch\obj\Debug\net8.0\refint\try-catch.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\try-catch\obj\Debug\net8.0\try-catch.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\try-catch\obj\Debug\net8.0\try-catch.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\try-catch\obj\Debug\net8.0\ref\try-catch.dll
