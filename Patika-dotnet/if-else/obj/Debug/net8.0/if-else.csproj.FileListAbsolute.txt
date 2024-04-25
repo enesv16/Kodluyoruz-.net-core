@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\if-else\bin\Debug\net8.0\if-else.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\if-else\bin\Debug\net8.0\if-else.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\if-else\bin\Debug\net8.0\if-else.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\if-else\bin\Debug\net8.0\if-else.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\if-else\bin\Debug\net8.0\if-else.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\if-else\obj\Debug\net8.0\if-else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\if-else\obj\Debug\net8.0\if-else.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\if-else\obj\Debug\net8.0\if-else.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\if-else\obj\Debug\net8.0\if-else.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\if-else\obj\Debug\net8.0\if-else.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\if-else\obj\Debug\net8.0\if-else.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\if-else\obj\Debug\net8.0\refint\if-else.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\if-else\obj\Debug\net8.0\if-else.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\if-else\obj\Debug\net8.0\if-else.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\if-else\obj\Debug\net8.0\ref\if-else.dll
