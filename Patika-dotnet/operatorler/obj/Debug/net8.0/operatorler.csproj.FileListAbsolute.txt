@@ -1,0 +1,14 @@
+D:\Patika-dotnet\operatorler\bin\Debug\net8.0\operatorler.exe
+D:\Patika-dotnet\operatorler\bin\Debug\net8.0\operatorler.deps.json
+D:\Patika-dotnet\operatorler\bin\Debug\net8.0\operatorler.runtimeconfig.json
+D:\Patika-dotnet\operatorler\bin\Debug\net8.0\operatorler.dll
+D:\Patika-dotnet\operatorler\bin\Debug\net8.0\operatorler.pdb
+D:\Patika-dotnet\operatorler\obj\Debug\net8.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika-dotnet\operatorler\obj\Debug\net8.0\operatorler.AssemblyInfoInputs.cache
+D:\Patika-dotnet\operatorler\obj\Debug\net8.0\operatorler.AssemblyInfo.cs
+D:\Patika-dotnet\operatorler\obj\Debug\net8.0\operatorler.csproj.CoreCompileInputs.cache
+D:\Patika-dotnet\operatorler\obj\Debug\net8.0\operatorler.dll
+D:\Patika-dotnet\operatorler\obj\Debug\net8.0\refint\operatorler.dll
+D:\Patika-dotnet\operatorler\obj\Debug\net8.0\operatorler.pdb
+D:\Patika-dotnet\operatorler\obj\Debug\net8.0\operatorler.genruntimeconfig.cache
+D:\Patika-dotnet\operatorler\obj\Debug\net8.0\ref\operatorler.dll

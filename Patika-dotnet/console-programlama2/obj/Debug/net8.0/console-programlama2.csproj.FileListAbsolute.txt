@@ -1,0 +1,14 @@
+D:\Patika-dotnet\console-programlama2\bin\Debug\net8.0\console-programlama2.exe
+D:\Patika-dotnet\console-programlama2\bin\Debug\net8.0\console-programlama2.deps.json
+D:\Patika-dotnet\console-programlama2\bin\Debug\net8.0\console-programlama2.runtimeconfig.json
+D:\Patika-dotnet\console-programlama2\bin\Debug\net8.0\console-programlama2.dll
+D:\Patika-dotnet\console-programlama2\bin\Debug\net8.0\console-programlama2.pdb
+D:\Patika-dotnet\console-programlama2\obj\Debug\net8.0\console-programlama2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika-dotnet\console-programlama2\obj\Debug\net8.0\console-programlama2.AssemblyInfoInputs.cache
+D:\Patika-dotnet\console-programlama2\obj\Debug\net8.0\console-programlama2.AssemblyInfo.cs
+D:\Patika-dotnet\console-programlama2\obj\Debug\net8.0\console-programlama2.csproj.CoreCompileInputs.cache
+D:\Patika-dotnet\console-programlama2\obj\Debug\net8.0\console-programlama2.dll
+D:\Patika-dotnet\console-programlama2\obj\Debug\net8.0\refint\console-programlama2.dll
+D:\Patika-dotnet\console-programlama2\obj\Debug\net8.0\console-programlama2.pdb
+D:\Patika-dotnet\console-programlama2\obj\Debug\net8.0\console-programlama2.genruntimeconfig.cache
+D:\Patika-dotnet\console-programlama2\obj\Debug\net8.0\ref\console-programlama2.dll
