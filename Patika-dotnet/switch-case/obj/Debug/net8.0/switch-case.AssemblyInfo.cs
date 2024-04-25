@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("if-else")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("switch-case")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae701ce86b7633c5ef3c9506e82ffeaae5615a74")]
-[assembly: System.Reflection.AssemblyProductAttribute("if-else")]
-[assembly: System.Reflection.AssemblyTitleAttribute("if-else")]
+[assembly: System.Reflection.AssemblyProductAttribute("switch-case")]
+[assembly: System.Reflection.AssemblyTitleAttribute("switch-case")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

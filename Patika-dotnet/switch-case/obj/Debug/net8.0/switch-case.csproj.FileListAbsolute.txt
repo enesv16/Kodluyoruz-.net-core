@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\switch-case\bin\Debug\net8.0\switch-case.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\switch-case\bin\Debug\net8.0\switch-case.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\switch-case\bin\Debug\net8.0\switch-case.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\switch-case\bin\Debug\net8.0\switch-case.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\switch-case\bin\Debug\net8.0\switch-case.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\switch-case\obj\Debug\net8.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\switch-case\obj\Debug\net8.0\switch-case.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\switch-case\obj\Debug\net8.0\switch-case.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\switch-case\obj\Debug\net8.0\switch-case.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\switch-case\obj\Debug\net8.0\switch-case.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\switch-case\obj\Debug\net8.0\switch-case.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\switch-case\obj\Debug\net8.0\refint\switch-case.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\switch-case\obj\Debug\net8.0\switch-case.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\switch-case\obj\Debug\net8.0\switch-case.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\switch-case\obj\Debug\net8.0\ref\switch-case.dll
