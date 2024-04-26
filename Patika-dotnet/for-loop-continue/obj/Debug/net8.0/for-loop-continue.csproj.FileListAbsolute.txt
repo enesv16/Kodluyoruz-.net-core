@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\for-loop-continue\bin\Debug\net8.0\for-loop-continue.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\for-loop-continue\bin\Debug\net8.0\for-loop-continue.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\for-loop-continue\bin\Debug\net8.0\for-loop-continue.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\for-loop-continue\bin\Debug\net8.0\for-loop-continue.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\for-loop-continue\bin\Debug\net8.0\for-loop-continue.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\for-loop-continue\obj\Debug\net8.0\for-loop-continue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\for-loop-continue\obj\Debug\net8.0\for-loop-continue.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\for-loop-continue\obj\Debug\net8.0\for-loop-continue.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\for-loop-continue\obj\Debug\net8.0\for-loop-continue.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\for-loop-continue\obj\Debug\net8.0\for-loop-continue.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\for-loop-continue\obj\Debug\net8.0\for-loop-continue.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\for-loop-continue\obj\Debug\net8.0\refint\for-loop-continue.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\for-loop-continue\obj\Debug\net8.0\for-loop-continue.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\for-loop-continue\obj\Debug\net8.0\for-loop-continue.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\for-loop-continue\obj\Debug\net8.0\ref\for-loop-continue.dll
