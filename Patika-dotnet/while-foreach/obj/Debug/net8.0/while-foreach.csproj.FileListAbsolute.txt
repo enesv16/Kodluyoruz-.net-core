@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\while-foreach\bin\Debug\net8.0\while-foreach.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\while-foreach\bin\Debug\net8.0\while-foreach.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\while-foreach\bin\Debug\net8.0\while-foreach.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\while-foreach\bin\Debug\net8.0\while-foreach.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\while-foreach\bin\Debug\net8.0\while-foreach.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\while-foreach\obj\Debug\net8.0\while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\while-foreach\obj\Debug\net8.0\while-foreach.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\while-foreach\obj\Debug\net8.0\while-foreach.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\while-foreach\obj\Debug\net8.0\while-foreach.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\while-foreach\obj\Debug\net8.0\while-foreach.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\while-foreach\obj\Debug\net8.0\while-foreach.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\while-foreach\obj\Debug\net8.0\refint\while-foreach.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\while-foreach\obj\Debug\net8.0\while-foreach.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\while-foreach\obj\Debug\net8.0\while-foreach.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\while-foreach\obj\Debug\net8.0\ref\while-foreach.dll
