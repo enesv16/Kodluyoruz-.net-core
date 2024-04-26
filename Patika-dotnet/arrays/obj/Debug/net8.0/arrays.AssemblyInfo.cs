@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("while-foreach")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2048cf39a005e33af6ab813744a99b61990f0c2f")]
-[assembly: System.Reflection.AssemblyProductAttribute("while-foreach")]
-[assembly: System.Reflection.AssemblyTitleAttribute("while-foreach")]
+[assembly: System.Reflection.AssemblyProductAttribute("arrays")]
+[assembly: System.Reflection.AssemblyTitleAttribute("arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

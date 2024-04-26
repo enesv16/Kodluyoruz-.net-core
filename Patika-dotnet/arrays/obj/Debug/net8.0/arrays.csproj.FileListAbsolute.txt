@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\arrays\bin\Debug\net8.0\arrays.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\arrays\bin\Debug\net8.0\arrays.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\arrays\bin\Debug\net8.0\arrays.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\arrays\bin\Debug\net8.0\arrays.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\arrays\bin\Debug\net8.0\arrays.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\arrays\obj\Debug\net8.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\arrays\obj\Debug\net8.0\arrays.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\arrays\obj\Debug\net8.0\arrays.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\arrays\obj\Debug\net8.0\arrays.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\arrays\obj\Debug\net8.0\arrays.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\arrays\obj\Debug\net8.0\arrays.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\arrays\obj\Debug\net8.0\refint\arrays.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\arrays\obj\Debug\net8.0\arrays.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\arrays\obj\Debug\net8.0\arrays.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\arrays\obj\Debug\net8.0\ref\arrays.dll
