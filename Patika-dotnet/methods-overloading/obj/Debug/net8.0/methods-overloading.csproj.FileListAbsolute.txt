@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods-overloading\bin\Debug\net8.0\methods-overloading.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods-overloading\bin\Debug\net8.0\methods-overloading.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods-overloading\bin\Debug\net8.0\methods-overloading.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods-overloading\bin\Debug\net8.0\methods-overloading.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods-overloading\bin\Debug\net8.0\methods-overloading.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods-overloading\obj\Debug\net8.0\methods-overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods-overloading\obj\Debug\net8.0\methods-overloading.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods-overloading\obj\Debug\net8.0\methods-overloading.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods-overloading\obj\Debug\net8.0\methods-overloading.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods-overloading\obj\Debug\net8.0\methods-overloading.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods-overloading\obj\Debug\net8.0\methods-overloading.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods-overloading\obj\Debug\net8.0\refint\methods-overloading.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods-overloading\obj\Debug\net8.0\methods-overloading.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods-overloading\obj\Debug\net8.0\methods-overloading.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods-overloading\obj\Debug\net8.0\ref\methods-overloading.dll
