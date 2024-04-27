@@ -57,4 +57,5 @@ foreach (var sayi2 in sayiDizisi)
 {
     Console.WriteLine(sayi2);
 }
+sayiDizisi.
 

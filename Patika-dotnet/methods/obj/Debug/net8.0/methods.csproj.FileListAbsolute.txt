@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods\bin\Debug\net8.0\methods.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods\bin\Debug\net8.0\methods.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods\bin\Debug\net8.0\methods.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods\bin\Debug\net8.0\methods.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods\bin\Debug\net8.0\methods.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods\obj\Debug\net8.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods\obj\Debug\net8.0\methods.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods\obj\Debug\net8.0\methods.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods\obj\Debug\net8.0\methods.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods\obj\Debug\net8.0\methods.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods\obj\Debug\net8.0\methods.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods\obj\Debug\net8.0\refint\methods.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods\obj\Debug\net8.0\methods.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods\obj\Debug\net8.0\methods.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\methods\obj\Debug\net8.0\ref\methods.dll
