@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\datetime-math\bin\Debug\net8.0\datetime-math.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\datetime-math\bin\Debug\net8.0\datetime-math.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\datetime-math\bin\Debug\net8.0\datetime-math.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\datetime-math\bin\Debug\net8.0\datetime-math.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\datetime-math\bin\Debug\net8.0\datetime-math.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\datetime-math\obj\Debug\net8.0\datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\datetime-math\obj\Debug\net8.0\datetime-math.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\datetime-math\obj\Debug\net8.0\datetime-math.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\datetime-math\obj\Debug\net8.0\datetime-math.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\datetime-math\obj\Debug\net8.0\datetime-math.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\datetime-math\obj\Debug\net8.0\datetime-math.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\datetime-math\obj\Debug\net8.0\refint\datetime-math.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\datetime-math\obj\Debug\net8.0\datetime-math.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\datetime-math\obj\Debug\net8.0\datetime-math.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\datetime-math\obj\Debug\net8.0\ref\datetime-math.dll
