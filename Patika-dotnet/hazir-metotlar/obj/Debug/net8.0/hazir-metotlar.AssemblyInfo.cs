@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hazir-metotlar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b908d8c6cfac17a96c362ad23e3cdbcc7462d95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92bc74a43bd46be00632d802f47b97f5fe057018")]
 [assembly: System.Reflection.AssemblyProductAttribute("hazir-metotlar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hazir-metotlar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
