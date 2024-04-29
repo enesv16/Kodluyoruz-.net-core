@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\recursive-extension\bin\Debug\net8.0\recursive-extension.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\recursive-extension\bin\Debug\net8.0\recursive-extension.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\recursive-extension\bin\Debug\net8.0\recursive-extension.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\recursive-extension\bin\Debug\net8.0\recursive-extension.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\recursive-extension\bin\Debug\net8.0\recursive-extension.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\recursive-extension\obj\Debug\net8.0\recursive-extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\recursive-extension\obj\Debug\net8.0\recursive-extension.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\recursive-extension\obj\Debug\net8.0\recursive-extension.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\recursive-extension\obj\Debug\net8.0\recursive-extension.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\recursive-extension\obj\Debug\net8.0\recursive-extension.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\recursive-extension\obj\Debug\net8.0\recursive-extension.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\recursive-extension\obj\Debug\net8.0\refint\recursive-extension.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\recursive-extension\obj\Debug\net8.0\recursive-extension.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\recursive-extension\obj\Debug\net8.0\recursive-extension.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\recursive-extension\obj\Debug\net8.0\ref\recursive-extension.dll
