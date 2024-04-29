@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("hazır-metotlar")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("hazir-metotlar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a36f70eadea131a995f25d54890f76ed8fd120fc")]
-[assembly: System.Reflection.AssemblyProductAttribute("hazır-metotlar")]
-[assembly: System.Reflection.AssemblyTitleAttribute("hazır-metotlar")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b908d8c6cfac17a96c362ad23e3cdbcc7462d95")]
+[assembly: System.Reflection.AssemblyProductAttribute("hazir-metotlar")]
+[assembly: System.Reflection.AssemblyTitleAttribute("hazir-metotlar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

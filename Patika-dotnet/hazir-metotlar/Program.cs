@@ -23,7 +23,7 @@ Console.WriteLine(degisken.StartsWith("dersimiz"));
 
 //IndexOf
 Console.WriteLine(degisken.IndexOf("CS"));
-Console.WriteLine(degisken.IndexOf("Enes"));
+Console.WriteLine(degisken.IndexOf("Tansu"));
 Console.WriteLine(degisken.LastIndexOf("i"));
 
 // Insert

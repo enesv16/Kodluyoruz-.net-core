@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Patika.net\\Kodluyoruz-.net-core\\Patika-dotnet\\hazır-metotlar\\hazır-metotlar.csproj": {}
+    "D:\\Patika.net\\Kodluyoruz-.net-core\\Patika-dotnet\\hazir-metotlar\\hazir-metotlar.csproj": {}
   },
   "projects": {
-    "D:\\Patika.net\\Kodluyoruz-.net-core\\Patika-dotnet\\hazır-metotlar\\hazır-metotlar.csproj": {
+    "D:\\Patika.net\\Kodluyoruz-.net-core\\Patika-dotnet\\hazir-metotlar\\hazir-metotlar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Patika.net\\Kodluyoruz-.net-core\\Patika-dotnet\\hazır-metotlar\\hazır-metotlar.csproj",
-        "projectName": "hazır-metotlar",
-        "projectPath": "D:\\Patika.net\\Kodluyoruz-.net-core\\Patika-dotnet\\hazır-metotlar\\hazır-metotlar.csproj",
+        "projectUniqueName": "D:\\Patika.net\\Kodluyoruz-.net-core\\Patika-dotnet\\hazir-metotlar\\hazir-metotlar.csproj",
+        "projectName": "hazir-metotlar",
+        "projectPath": "D:\\Patika.net\\Kodluyoruz-.net-core\\Patika-dotnet\\hazir-metotlar\\hazir-metotlar.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "D:\\Patika.net\\Kodluyoruz-.net-core\\Patika-dotnet\\hazır-metotlar\\obj\\",
+        "outputPath": "D:\\Patika.net\\Kodluyoruz-.net-core\\Patika-dotnet\\hazir-metotlar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
