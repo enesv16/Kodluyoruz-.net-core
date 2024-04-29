@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\hazır-metotlar\bin\Debug\net8.0\hazır-metotlar.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\hazır-metotlar\bin\Debug\net8.0\hazır-metotlar.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\hazır-metotlar\bin\Debug\net8.0\hazır-metotlar.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\hazır-metotlar\bin\Debug\net8.0\hazır-metotlar.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\hazır-metotlar\bin\Debug\net8.0\hazır-metotlar.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\hazır-metotlar\obj\Debug\net8.0\hazır-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\hazır-metotlar\obj\Debug\net8.0\hazır-metotlar.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\hazır-metotlar\obj\Debug\net8.0\hazır-metotlar.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\hazır-metotlar\obj\Debug\net8.0\hazır-metotlar.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\hazır-metotlar\obj\Debug\net8.0\hazır-metotlar.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\hazır-metotlar\obj\Debug\net8.0\hazır-metotlar.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\hazır-metotlar\obj\Debug\net8.0\refint\hazır-metotlar.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\hazır-metotlar\obj\Debug\net8.0\hazır-metotlar.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\hazır-metotlar\obj\Debug\net8.0\hazır-metotlar.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\hazır-metotlar\obj\Debug\net8.0\ref\hazır-metotlar.dll
