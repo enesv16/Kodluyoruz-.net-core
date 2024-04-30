@@ -2,6 +2,11 @@
 {
     private static void Main(string[] args)
     {
+        string a ="07:05:45AM";
+        DateTime date= Convert.ToDateTime(a);
+        Console.WriteLine(date);
+        date.AddHours(12);
+        Console.WriteLine(date.ToString("HH:mm:ss"));
         Console.WriteLine(DateTime.Now); // günün tarihini getirir.
         Console.WriteLine(DateTime.Now.Date);
         Console.WriteLine(DateTime.Now.Day);
@@ -49,5 +54,6 @@
         Console.WriteLine(Math.Log(9)); // 9 un e tabanındaki logoritmik karşılığını getirir.
         Console.WriteLine(Math.Exp(3)); // e üzeri 3 û verir.
         Console.WriteLine(Math.Log10(10)); // 10 sayısının logaritma 10 tabanındaki karşılığı
+
     }
 }

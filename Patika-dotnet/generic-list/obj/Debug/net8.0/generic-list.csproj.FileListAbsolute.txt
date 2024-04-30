@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\generic-list\bin\Debug\net8.0\generic-list.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\generic-list\bin\Debug\net8.0\generic-list.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\generic-list\bin\Debug\net8.0\generic-list.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\generic-list\bin\Debug\net8.0\generic-list.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\generic-list\bin\Debug\net8.0\generic-list.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\generic-list\obj\Debug\net8.0\generic-list.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\generic-list\obj\Debug\net8.0\generic-list.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\generic-list\obj\Debug\net8.0\generic-list.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\generic-list\obj\Debug\net8.0\generic-list.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\generic-list\obj\Debug\net8.0\generic-list.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\generic-list\obj\Debug\net8.0\generic-list.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\generic-list\obj\Debug\net8.0\refint\generic-list.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\generic-list\obj\Debug\net8.0\generic-list.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\generic-list\obj\Debug\net8.0\generic-list.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\generic-list\obj\Debug\net8.0\ref\generic-list.dll
