@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\encapsulation-property\bin\Debug\net8.0\encapsulation-property.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\encapsulation-property\bin\Debug\net8.0\encapsulation-property.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\encapsulation-property\bin\Debug\net8.0\encapsulation-property.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\encapsulation-property\bin\Debug\net8.0\encapsulation-property.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\encapsulation-property\bin\Debug\net8.0\encapsulation-property.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\encapsulation-property\obj\Debug\net8.0\encapsulation-property.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\encapsulation-property\obj\Debug\net8.0\encapsulation-property.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\encapsulation-property\obj\Debug\net8.0\encapsulation-property.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\encapsulation-property\obj\Debug\net8.0\encapsulation-property.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\encapsulation-property\obj\Debug\net8.0\encapsulation-property.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\encapsulation-property\obj\Debug\net8.0\encapsulation-property.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\encapsulation-property\obj\Debug\net8.0\refint\encapsulation-property.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\encapsulation-property\obj\Debug\net8.0\encapsulation-property.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\encapsulation-property\obj\Debug\net8.0\encapsulation-property.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\encapsulation-property\obj\Debug\net8.0\ref\encapsulation-property.dll
