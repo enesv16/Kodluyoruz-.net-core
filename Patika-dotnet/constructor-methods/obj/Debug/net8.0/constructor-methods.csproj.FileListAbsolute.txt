@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\constructor-methods\obj\Debug\net8.0\constructor-methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\constructor-methods\obj\Debug\net8.0\constructor-methods.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\constructor-methods\obj\Debug\net8.0\constructor-methods.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\constructor-methods\obj\Debug\net8.0\constructor-methods.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\constructor-methods\obj\Debug\net8.0\constructor-methods.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\constructor-methods\bin\Debug\net8.0\constructor-methods.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\constructor-methods\bin\Debug\net8.0\constructor-methods.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\constructor-methods\bin\Debug\net8.0\constructor-methods.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\constructor-methods\bin\Debug\net8.0\constructor-methods.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\constructor-methods\bin\Debug\net8.0\constructor-methods.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\constructor-methods\obj\Debug\net8.0\constructor-methods.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\constructor-methods\obj\Debug\net8.0\refint\constructor-methods.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\constructor-methods\obj\Debug\net8.0\constructor-methods.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\constructor-methods\obj\Debug\net8.0\constructor-methods.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\constructor-methods\obj\Debug\net8.0\ref\constructor-methods.dll
