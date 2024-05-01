@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\enum\bin\Debug\net8.0\enum.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\enum\bin\Debug\net8.0\enum.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\enum\bin\Debug\net8.0\enum.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\enum\bin\Debug\net8.0\enum.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\enum\bin\Debug\net8.0\enum.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\enum\obj\Debug\net8.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\enum\obj\Debug\net8.0\enum.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\enum\obj\Debug\net8.0\enum.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\enum\obj\Debug\net8.0\enum.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\enum\obj\Debug\net8.0\enum.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\enum\obj\Debug\net8.0\enum.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\enum\obj\Debug\net8.0\refint\enum.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\enum\obj\Debug\net8.0\enum.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\enum\obj\Debug\net8.0\enum.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\enum\obj\Debug\net8.0\ref\enum.dll
