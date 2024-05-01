@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\Odev-2\Koleksiyonlar-Soru-3\bin\Debug\net8.0\Koleksiyonlar-Soru-3.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\Odev-2\Koleksiyonlar-Soru-3\bin\Debug\net8.0\Koleksiyonlar-Soru-3.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\Odev-2\Koleksiyonlar-Soru-3\bin\Debug\net8.0\Koleksiyonlar-Soru-3.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\Odev-2\Koleksiyonlar-Soru-3\bin\Debug\net8.0\Koleksiyonlar-Soru-3.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\Odev-2\Koleksiyonlar-Soru-3\bin\Debug\net8.0\Koleksiyonlar-Soru-3.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\Odev-2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\Koleksiyonlar-Soru-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\Odev-2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\Koleksiyonlar-Soru-3.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\Odev-2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\Koleksiyonlar-Soru-3.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\Odev-2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\Koleksiyonlar-Soru-3.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\Odev-2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\Koleksiyonlar-Soru-3.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\Odev-2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\Koleksiyonlar-Soru-3.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\Odev-2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\refint\Koleksiyonlar-Soru-3.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\Odev-2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\Koleksiyonlar-Soru-3.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\Odev-2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\Koleksiyonlar-Soru-3.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\Odev-2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\ref\Koleksiyonlar-Soru-3.dll
