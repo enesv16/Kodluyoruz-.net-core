@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\TelefonRehberi\bin\Debug\net8.0\TelefonRehberi.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\TelefonRehberi\bin\Debug\net8.0\TelefonRehberi.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\TelefonRehberi\bin\Debug\net8.0\TelefonRehberi.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\TelefonRehberi\bin\Debug\net8.0\TelefonRehberi.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\TelefonRehberi\bin\Debug\net8.0\TelefonRehberi.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\TelefonRehberi\obj\Debug\net8.0\TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\TelefonRehberi\obj\Debug\net8.0\TelefonRehberi.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\TelefonRehberi\obj\Debug\net8.0\TelefonRehberi.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\TelefonRehberi\obj\Debug\net8.0\TelefonRehberi.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\TelefonRehberi\obj\Debug\net8.0\TelefonRehberi.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\TelefonRehberi\obj\Debug\net8.0\TelefonRehberi.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\TelefonRehberi\obj\Debug\net8.0\refint\TelefonRehberi.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\TelefonRehberi\obj\Debug\net8.0\TelefonRehberi.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\TelefonRehberi\obj\Debug\net8.0\TelefonRehberi.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\TelefonRehberi\obj\Debug\net8.0\ref\TelefonRehberi.dll
