@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\interface\bin\Debug\net8.0\interface.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\interface\bin\Debug\net8.0\interface.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\interface\bin\Debug\net8.0\interface.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\interface\bin\Debug\net8.0\interface.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\interface\bin\Debug\net8.0\interface.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\interface\obj\Debug\net8.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\interface\obj\Debug\net8.0\interface.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\interface\obj\Debug\net8.0\interface.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\interface\obj\Debug\net8.0\interface.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\interface\obj\Debug\net8.0\interface.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\interface\obj\Debug\net8.0\interface.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\interface\obj\Debug\net8.0\refint\interface.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\interface\obj\Debug\net8.0\interface.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\interface\obj\Debug\net8.0\interface.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\interface\obj\Debug\net8.0\ref\interface.dll
