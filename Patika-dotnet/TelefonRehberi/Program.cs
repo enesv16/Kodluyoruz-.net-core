@@ -12,8 +12,8 @@
             Console.WriteLine("-*-*-*-*-_Rehber Islemleri_-*-*-*-*");
 
             Console.WriteLine("1 - Telefon Numarasi Kaydet");
-            Console.WriteLine("2 - Telefon Numarası Sil");
-            Console.WriteLine("3 - Telefon Numarası Güncelle");
+            Console.WriteLine("2 - Telefon Numarasi Sil");
+            Console.WriteLine("3 - Telefon Numarasi Güncelle");
             Console.WriteLine("4 - Rehber Listeleme (A-Z, Z-A seçimli)");
             Console.WriteLine("5 - Rehberde Arama");
             Console.Write("\nLutfen islem numarasini giriniz: ");

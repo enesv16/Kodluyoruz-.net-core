@@ -21,32 +21,83 @@ public class RehberYoneticisi
 
     public void kisiSil()
     {
-        string silinecekAd = KullaniciArayuzu.kullaniciGiris("Lütfen silinecek kisi adini veya soyadini giriniz: ");
-        Kisi kisi = rehber.KisiList.FirstOrDefault(aranan => aranan.Ad.Equals(silinecekAd, StringComparison.OrdinalIgnoreCase) || aranan.Soyad.Equals(silinecekAd, StringComparison.OrdinalIgnoreCase));
-        if (kisi == null)
+
+        while (true)
         {
-            KullaniciArayuzu.mesajGoster("Kullanici rehberde bulunamadi");
-            return;
-        }
-        else
-        {
-            rehber.Sil(kisi);
+            string silinecekAd = KullaniciArayuzu.kullaniciGiris("Lütfen silinecek kisi adini veya soyadini giriniz: ");
+            Kisi kisi = rehber.KisiList.FirstOrDefault(aranan => aranan.Ad.Equals(silinecekAd, StringComparison.OrdinalIgnoreCase) || aranan.Soyad.Equals(silinecekAd, StringComparison.OrdinalIgnoreCase));
+            if (kisi == null)
+            {
+                KullaniciArayuzu.mesajGoster("Kullanici rehberde bulunamadi");
+                string secim = KullaniciArayuzu.kullaniciGiris("* Silmeyi sonlandırmak için : (1)\n* Yeniden denemek için      : (2)");
+
+                if (secim == "1")
+                {
+                    KullaniciArayuzu.mesajGoster("Islem sonlandirilmistir.");
+                    break;
+                }
+                else if (secim == "2")
+                {
+                    continue;
+                }
+
+            }
+            else
+            {
+                string onay = KullaniciArayuzu.kullaniciGiris($"{kisi.Ad} {kisi.Soyad} isimli kişi rehberden silinmek üzere, onayliyor musunuz ?(y/n)");
+                if (onay == "y")
+                {
+                    rehber.Sil(kisi);
+                    KullaniciArayuzu.mesajGoster("Islem basarili!");
+                }
+                else if (onay == "n")
+                {
+                    KullaniciArayuzu.mesajGoster("Islemden vazgecildi.");
+                }
+                break;
+            }
         }
     }
 
     public void kisiGuncelle()
     {
-        string guncellenecekAd = KullaniciArayuzu.kullaniciGiris("Lütfen numarasi güncellenecek kisinin adini veya soyadini giriniz: ");
-        Kisi kisi = rehber.KisiList.FirstOrDefault(aranan => aranan.Ad.Equals(guncellenecekAd, StringComparison.OrdinalIgnoreCase) || aranan.Soyad.Equals(guncellenecekAd, StringComparison.OrdinalIgnoreCase));
-        if (kisi == null)
+        while (true)
         {
-            KullaniciArayuzu.mesajGoster("Bilgileri güncellemek için önce bir kişiyi seçiniz!");
-        }
-        else
-        {
-            string yeniNumara = KullaniciArayuzu.kullaniciGiris("Yeni numarayi giriniz: ");
-            kisi.Numara = yeniNumara;
-            KullaniciArayuzu.mesajGoster("Bilgiler basariyla guncellendi.");
+            string guncellenecekAd = KullaniciArayuzu.kullaniciGiris("Lütfen numarasi güncellenecek kisinin adini veya soyadini giriniz: ");
+            Kisi kisi = rehber.KisiList.FirstOrDefault(aranan => aranan.Ad.Equals(guncellenecekAd, StringComparison.OrdinalIgnoreCase) || aranan.Soyad.Equals(guncellenecekAd, StringComparison.OrdinalIgnoreCase));
+            if (kisi == null)
+            {
+                KullaniciArayuzu.mesajGoster("Bilgileri güncellemek için önce bir kişiyi seçiniz!");
+
+                string secim = KullaniciArayuzu.kullaniciGiris("* Güncellemeyi sonlandirmak için : (1)\n* Yeniden denemek için      : (2)");
+
+                if (secim == "1")
+                {
+                    KullaniciArayuzu.mesajGoster("Islem sonlandirilmistir.");
+                    break;
+                }
+                else if (secim == "2")
+                {
+                    continue;
+                }
+            }
+            else
+            {
+                string yeniNumara = KullaniciArayuzu.kullaniciGiris("Yeni numarayi giriniz: ");
+
+
+                string onay = KullaniciArayuzu.kullaniciGiris($"{kisi.Ad} {kisi.Soyad} isimli kişinin numarasi {yeniNumara} olarak değistirelecektir. Onayliyor musunuz ?(y/n)");
+                if (onay == "y")
+                {
+                    kisi.Numara = yeniNumara;
+                    KullaniciArayuzu.mesajGoster("Bilgiler basariyla guncellendi.");
+                }
+                else if (onay == "n")
+                {
+                    KullaniciArayuzu.mesajGoster("Islemden vazgecildi.");
+                }
+                break;
+            }
         }
     }
 
@@ -79,7 +130,7 @@ public class RehberYoneticisi
 
     public void rehberdeAra()
     {
-        KullaniciArayuzu.mesajGoster("isim ya da soyisimle aramak için 1i numarayla aramak için 2yi tuşlayiniz:");
+        KullaniciArayuzu.mesajGoster("Lütfen islem yapmak istediğiniz turu tuslayiniz\nIsim ya da soyisimle aramak için: (1)\nNnumarayla aramak için: (2)");
         int aramaTipi = int.Parse(KullaniciArayuzu.kullaniciGiris("Arama tipini tuşlayiniz:"));
         if (aramaTipi == 1)
         {
@@ -89,7 +140,7 @@ public class RehberYoneticisi
         }
         else if (aramaTipi == 2)
         {
-            string arananNumara = KullaniciArayuzu.kullaniciGiris("Aranacak numarayı giriniz:");
+            string arananNumara = KullaniciArayuzu.kullaniciGiris("Aranacak numarayi giriniz:");
             Kisi sonuc = rehber.KisiList.FirstOrDefault(aranan => aranan.Numara.Equals(arananNumara, StringComparison.OrdinalIgnoreCase));
             if (sonuc != null)
             {
