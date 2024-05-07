@@ -1,0 +1,15 @@
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\to-do-app\bin\Debug\net8.0\to-do-app.exe
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\to-do-app\bin\Debug\net8.0\to-do-app.deps.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\to-do-app\bin\Debug\net8.0\to-do-app.runtimeconfig.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\to-do-app\bin\Debug\net8.0\to-do-app.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\to-do-app\bin\Debug\net8.0\to-do-app.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\to-do-app\obj\Debug\net8.0\to-do-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\to-do-app\obj\Debug\net8.0\to-do-app.AssemblyInfoInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\to-do-app\obj\Debug\net8.0\to-do-app.AssemblyInfo.cs
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\to-do-app\obj\Debug\net8.0\to-do-app.csproj.CoreCompileInputs.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\to-do-app\obj\Debug\net8.0\to-do-app.sourcelink.json
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\to-do-app\obj\Debug\net8.0\to-do-app.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\to-do-app\obj\Debug\net8.0\refint\to-do-app.dll
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\to-do-app\obj\Debug\net8.0\to-do-app.pdb
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\to-do-app\obj\Debug\net8.0\to-do-app.genruntimeconfig.cache
+D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\to-do-app\obj\Debug\net8.0\ref\to-do-app.dll
