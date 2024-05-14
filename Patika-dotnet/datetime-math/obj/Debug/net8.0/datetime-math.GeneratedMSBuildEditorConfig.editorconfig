@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = datetime_math
-build_property.ProjectDir = D:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\datetime-math\
+build_property.ProjectDir = d:\Patika.net\Kodluyoruz-.net-core\Patika-dotnet\datetime-math\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
